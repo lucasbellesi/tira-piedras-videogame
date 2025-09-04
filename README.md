@@ -29,3 +29,6 @@ Start-Process -FilePath ".\build\Debug\tirapiedras.exe" -WorkingDirectory ".\bui
 - Las piedras aleatorias spawnean más rápido (2s)
 - Enemigos aumentan 25% de velocidad por ciclo de dificultad
 - 50% de probabilidad de soltar piedra grande al morir
+## Origen del Proyecto
+Este port en C++/raylib toma como base el prototipo HTML/JS de un solo archivo:
+- [demo_html_top_down_piedras_js_canvas_single_file (2).html](version%20html%20css%20js/demo_html_top_down_piedras_js_canvas_single_file%20%282%29.html)
