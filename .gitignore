@@ -1,0 +1,14 @@
+# Build
+build/
+
+# VSCode
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Others
+*.log
+*.tmp
